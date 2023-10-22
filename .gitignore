@@ -1,0 +1,5 @@
+# ntgmk-bot .gitignore
+venv/
+__pycache__/
+.idea/
+config/tokens.py
